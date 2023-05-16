@@ -1,0 +1,9 @@
+.appBar {
+    background-color:lightblue;
+    color :navy;
+    margin :0;
+    padding-left : 1rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+    text-align: center; 
+}
